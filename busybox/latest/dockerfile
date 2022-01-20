@@ -1,0 +1,2 @@
+From k8s.gcr.io/busybox:latest
+MAINTAINER lubaoai test
