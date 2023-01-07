@@ -1,2 +1,2 @@
-From registry.aliyuncs.com/google_containers/metrics-server:v0.6.2
+From registry.cn-beijing.aliyuncs.com/dotbalo/metrics-server:v0.6.2
 MAINTAINER lubaoai study 0107
