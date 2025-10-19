@@ -1,0 +1,2 @@
+From registry.cn-hangzhou.aliyuncs.com/google_containers/pause:3.6
+MAINTAINER lubaoai test
