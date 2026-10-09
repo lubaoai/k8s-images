@@ -1,0 +1,2 @@
+From docker.io/library/python:3.12-slim
+MAINTAINER lubaoai creaate
